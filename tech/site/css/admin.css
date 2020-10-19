@@ -1,0 +1,47 @@
+body {
+    background-color: #2D5719;
+   }
+h4{
+    color: #2D5719;
+}
+
+.contener{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 80vh;
+    width: auto;
+    margin: 5vh auto;
+    
+}
+.urgent{
+    height: auto;
+    width: 35vw;
+    background-color: #F9EDDA;
+    border-radius: 5%;
+}
+
+.chart{
+    height: 90vh;
+    width: 62vw;
+    background-color: #F9EDDA;;
+    border-radius: 5%;
+   
+}
+h3{
+    text-align: center;
+    font-family: cursive;
+    color: #E13813;
+    text-decoration: underline;
+}
+
+h2{
+    text-align: center;
+    font-family: cursive;
+}
+canvas{
+    margin: 5% 0;
+}
+.form{
+    margin: 10px;
+    display: flexbox;
+}

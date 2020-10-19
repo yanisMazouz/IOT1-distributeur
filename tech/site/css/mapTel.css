@@ -1,0 +1,50 @@
+body {
+    background-color: #2D5719;
+   }
+  h1{
+    text-align: center;
+    font-family: fantasy;
+    color: #F1F3CD;
+    font-size: 5vh;
+    margin: 3%;
+  }
+  h3{
+    text-align: center;
+    font-family: fantasy;
+    color: black;
+    font-style: unset;
+    font-size: 5vh;
+    text-decoration: underline;
+    margin: 3%;
+  }
+  
+  .grid{
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      min-width: 100vw;
+  
+  }
+  .infos {
+      border-radius: 15px 50px;
+      min-height: 40vh;
+      min-width: 40vh;
+      background-color: #FDEFBD;
+      text-align: center;
+  }
+  .map {
+      border-radius: 15px 50px;
+      border: 3px solid #E63607;
+      min-height: 40vh;
+      min-width: 40vh;
+     
+    }
+  
+    label{
+      text-align: center;
+      font-family: fantasy;
+      color: black;
+      font-style: unset;
+      font-size: 3vh;
+    }
+    
